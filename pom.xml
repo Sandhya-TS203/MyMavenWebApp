@@ -39,7 +39,7 @@
     <version>3.4.0</version> <!-- Update to latest stable version -->
 </plugin>
 </plugins>
-    <finalName>MymavenWebApp01</finalName>
+    <finalName>MymavenWebApp</finalName>
   </build>
   
   
